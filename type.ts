@@ -1,7 +1,7 @@
 export interface cardTypes {
 title: String;
 Description:String;
-image:String;
+image:string;
 
 }
 
